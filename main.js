@@ -1,0 +1,10 @@
+var subject1 = "HH   HH        lll lll                                  lll      dd !!!";
+var subject2 = "HH   HH   eee  lll lll  oooo   ww      ww  oooo  rr rr  lll      dd !!!";
+var subject3 = "HHHHHHH ee   e lll lll oo  oo  ww      ww oo  oo rrr  r lll  dddddd !!!";
+var subject4 = "HH   HH eeeee  lll lll oo  oo   ww ww ww  oo  oo rr     lll dd   dd    ";
+var subject5 = "HH   HH  eeeee lll lll  oooo     ww  ww    oooo  rr     lll  dddddd !!!";
+console.log(subject1);
+console.log(subject2);
+console.log(subject3);
+console.log(subject4);
+console.log(subject5);
